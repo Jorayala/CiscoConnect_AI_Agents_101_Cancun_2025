@@ -24,9 +24,10 @@ En esta sesión exploramos cómo implementar agentes de IA que pueden interactua
 - Documentación completa de implementación
 
 ### 📊 Investigación y Análisis
-- **`Copy_of_L2_research_write_article.ipynb`** - Notebook de investigación sobre agentes de IA
-- Análisis de casos de uso en redes empresariales
-- Metodologías de implementación
+- **`multi-agente/`** - Directorio de investigación sobre sistemas multi-agente
+  - Notebook de investigación sobre sistemas multi-agente
+  - Análisis de casos de uso en redes empresariales
+  - Metodologías de implementación colaborativa
 
 ## 🚀 Características Principales
 
